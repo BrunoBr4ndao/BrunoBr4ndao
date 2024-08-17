@@ -1,4 +1,4 @@
-<h2 align="left">47 / 5.000<br>Hello 👋! Welcome, my name is Bruno Brandão</h2>
+<h2 align="left"><br>Hello 👋! Welcome, my name is Bruno Brandão</h2>
 
 ###
 
